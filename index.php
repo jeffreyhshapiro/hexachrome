@@ -1,1 +1,1 @@
-<?php include_once("/html/hexachrome.html"); ?>
+<?php include_once("html/hexachrome.html"); ?>
