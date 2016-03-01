@@ -22,6 +22,6 @@ function getConcatenatedTime(h, m, s){
     var timeInString = h + m + s;
     document.getElementById('hex').innerHTML = "#"+timeInString;
     document.body.style.backgroundColor = "#"+timeInString;
-    var timeInHex = parseInt(timeInString,16);
-    getTimeInHex(timeInHex);
+    //var timeInHex = parseInt(timeInString,16);
+    //getTimeInHex(timeInHex);
 };
